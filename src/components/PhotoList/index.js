@@ -6,6 +6,18 @@ const PhotoList = ({ category }) => {
   const [currentPhoto, setCurrentPhoto] = useState();
 
   const [photos] = useState([
+    // {
+    //   name: 'ready?',
+    //   category: 'projects',
+    //   description:
+    //     'Ready for an adventure? Afraid of planning around the weather? No worries, ready? has your back! Type a zip code for any area within the United States below, and get planning!'
+    // },
+    // {
+    //   name: 'ready? forecast',
+    //   category: 'projects',
+    //   description:
+    //     'Ready for an adventure? Afraid of planning around the weather? No worries, ready? has your back! Type a zip code for any area within the United States below, and get planning!'
+    // },
     {
       name: 'Grocery aisle',
       category: 'commercial',

@@ -17,8 +17,8 @@ function Nav(props) {
   return (
     <header className="flex-row px-1">
       <h2>
-        <a data-testid="link" href="/">
-          <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+        <a data-testid="link" href="https://github.com/kea6t/react-portfolio">
+          <span role="img" aria-label="computer"> </span> Kenneth Asay's Portfolio
         </a>
       </h2>
       <nav>

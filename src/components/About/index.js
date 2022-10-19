@@ -1,5 +1,5 @@
 import React from 'react';
-import coverImage from '../../assets/cover/cover-image.jpg';
+import coverImage from '../../assets/cover/coverImage2.jpg';
 function About() {
   return (
     <section className="my-5">
@@ -7,13 +7,10 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       <div className="my-2">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex
-          condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna
-          mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum.
-          Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique
-          justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea
-          dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh.
-          Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+          I want to introduce myself as a student at George Mason University, earning a bachelor's degree in computer science.
+          My graduation date is for December 2022. I am now seeking full-time permanent opportunities with prestigious organizations which would provide me with additional training and development opportunities to complement my role and aid in my transition from student to career professional. Database Systems, Operating Systems, Analysis of Algorithms, Data structures, Software Engineering, Networking, Computer Systems, and George Washington Full Stack Developer Bootcamp made me understand the discipline of Computer Science.
+          My working approach includes adapting to different work cultures, recognizing and addressing bottlenecks, and prioritizing. In addition to the previous, I believe in learning and sharing what I have learned with my colleagues. My life philosophy has been "Knowledge shared is knowledge gained." I strongly desire to learn and am adept at recognizing and addressing challenges.
+          I am convinced that my experience and knowledge in Computer Science and solid technical abilities in programming languages will be a valuable asset and bring instant value.
         </p>
       </div>
     </section>
